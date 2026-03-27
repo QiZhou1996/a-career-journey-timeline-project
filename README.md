@@ -3,4 +3,4 @@ This is a sudden inspiration as a way to celebrate the arrival of 2026!
 
 Here is a viz:
 
-![Andale Mono](./Vizzes/AndaleMono.png)
+![Andale Mono](./Vizzes/Viz.png)
